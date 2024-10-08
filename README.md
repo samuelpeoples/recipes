@@ -1,1 +1,1 @@
-# recipes
+# This is an odin project about recipes, more to come! 
